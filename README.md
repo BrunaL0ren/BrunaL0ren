@@ -1,6 +1,7 @@
 # Olá, eu sou a Bruna 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bruna-loren-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/bruna-loren)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bruna--loren-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/bruna-loren-/)  
+
 [![Email](https://img.shields.io/badge/Email-brunaloren9@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:brunaloren9@gmail.com)  
 
 ---
