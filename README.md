@@ -15,11 +15,14 @@ Sou Analista de Qualidade de Software (QA) com experiência em testes manuais e 
 - Técnicas de teste: Caixa preta, caixa branca, regressão, usabilidade  
 
 ## Projetos
+- [Formulário de Login - Casos de Teste Manual](https://github.com/BrunaL0ren/manual-test-cases-login-form)  
+Casos de teste manuais detalhados para um formulário de login.
+
 - [Automação de Testes com Cypress](https://github.com/BrunaL0ren/cypress-saucedemo-tests)  
 Automação de testes para aplicação web usando Cypress.
 
-- [Testes Manuais e Robot Framework](https://github.com/BrunaL0ren/robot-login-tests)  
-Projeto de automação com Robot Framework e testes manuais aplicados.
+- [Automação de Testes com Robot Framework](https://github.com/BrunaL0ren/robot-login-tests)  
+Automação de testes para aplicação web usando Robot Framework.
 
 ---
 ## O que estou buscando  
